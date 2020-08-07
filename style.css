@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    padding: 0;
+ }
+  canvas{
+    margin-left: 2.5%;
+    margin-right: 25%;
+    margin-top: 10px;
+    border: 2px solid black;
+  }
+
+
+  /*html, body { margin: 0; padding: 0; display: flex; }*/
+   /*canvas { display: block; }*/
+     button{ position: relative;
+       display: inline-block; 
+       padding: 7px 30px; color: #f7dc5f;
+        text-transform: uppercase; 
+        letter-spacing: 4px;
+         text-decoration: none; 
+         font-size: 24px; 
+         overflow: hidden; 
+         transition: 0.2s; 
+         outline: none; 
+         border: none; 
+         background: #000000; }
+
+          /*l1:hover { color: #ffffff;
+            background: #32ebd2; 
+            box-shadow: 0 0 10px #32ebd2, 0 0 40px #32ebd2, 0 0 80px #32ebd2; 
+            cursor: pointer; }?*/
+  
